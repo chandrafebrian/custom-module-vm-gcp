@@ -19,7 +19,7 @@ variable "zone" {
 variable "machine_type" {
   description = "VM machine type"
   type        = string
-  default     = ""
+  default     = "default"
 }
 
 
